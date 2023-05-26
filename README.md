@@ -1,1 +1,46 @@
-# ex.2
+### Ex. No. : 2 
+### Date: 31.3.23 
+# Implementation of Combinational logic circuit using Verilog HDL
+## Aim:
+To implement the following Boolean functions using Verilog HDL and to verify the truth table.
+1. F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
+2. F2=xy’z+x’y’z+w’xy+wx’y+wxy
+
+## Components Required:
+1.	Laptop with Quartus software and modelsim software.
+
+## Theory:
+Combinational Logic Circuits are memoryless digital logic circuits whose output at any instant in time depends only on the combination of its inputs.
+The outputs of Combinational Logic Circuits are only determined by the logical function of their current input state, logic “0” or logic “1”, at any given instant in time.
+The result is that combinational logic circuits have no feedback, and any changes to the signals being applied to their inputs will immediately have an effect at the output. In other words, in a Combinational Logic Circuit, the output is dependant at all times on the combination of its inputs. Thus, a combinational circuit is memoryless.
+
+## Procedure:
+1.	Type the program in Quartus software.
+2.	Compile and run the program.
+3.	Generate the RTL schematic and save the logic diagram.
+4.	Create nodes for inputs and outputs to generate the timing diagram.
+5.	For different input combinations, generate the timing diagram.
+
+## Simplification:
+
+## Truth Table:
+
+## Program:
+
+
+## RTL Schematic:
+
+
+
+
+## Timing Diagram:
+
+
+
+
+## Result:
+
+Thus the given Boolean functions are implemented in Verilog HDL and the truth table are verified.
+
+
+
